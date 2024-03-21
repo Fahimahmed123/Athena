@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1710801414 source:c:\users\fahim\desktop\library\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"ui.h"
+	"book_code.h"
+	"io.h"
+	"signin.h"
+
+1710802060 source:c:\users\fahim\desktop\library\library\book_code.c
+	"book_code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
+1710801960 c:\users\fahim\desktop\library\library\book_code.h
+
+1710801416 c:\users\fahim\desktop\library\library\ui.h
+
+1710797795 c:\users\fahim\desktop\library\library\io.h
+
+1710801211 c:\users\fahim\desktop\library\library\signin.h
+
+1710801751 source:c:\users\fahim\desktop\library\library\io.c
+	"io.h"
+	"book_code.h"
+	"ui.h"
+	"signin.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
+1710801246 source:c:\users\fahim\desktop\library\library\signin.c
+	"signin.h"
+	"book_code.h"
+	<stdio.h>
+
+1710801418 source:c:\users\fahim\desktop\library\library\ui.c
+	"ui.h"
+	"book_code.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
